@@ -17,4 +17,9 @@ http://www3.dsi.uminho.pt/pcortez/student.pdf
 ### Description of Individual Files
 Code: We performed all the analysis in Rstudio<br>
 Report: This PDF report includes project documentation and descriptive analysis on each part <br>
-Output: This folder contains output files along with figures
+Output: This folder contains output files along with figures<br>
+<br>
+#### Contributors:
+Rohit Thakur<br>
+Elizabeth Trauger<br>
+Regan Kelly <br>
